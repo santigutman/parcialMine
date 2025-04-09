@@ -76,3 +76,5 @@ elMejorDeDos :: [Pokemon] -> Pokemon -> Pokemon -> Pokemon
 elMejorDeDos pokemones poke1 poke2
             | cantidadVictorias poke1 pokemones >= cantidadVictorias poke2 pokemones = poke1
             | otherwise = poke2
+
+--aaaaa
